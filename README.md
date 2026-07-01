@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
