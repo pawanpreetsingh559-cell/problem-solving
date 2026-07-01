@@ -1,8 +1,6 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        if(nums.length==1){
-            return;
-        }
+        
         int insertpos=0;
         int i=0;
         while(i<nums.length){
