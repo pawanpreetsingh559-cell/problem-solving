@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0169-majority-element) |
@@ -47,4 +48,8 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
