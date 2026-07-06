@@ -14,6 +14,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pawanpreetsingh559-cell/problem-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
